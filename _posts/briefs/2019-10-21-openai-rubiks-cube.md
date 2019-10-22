@@ -112,13 +112,13 @@ Professor Lipton further expanded on these thoughts on Twitter:
 
 One of the [most highly voted comments](https://news.ycombinator.com/item?id=21306542) in the [Hacker News discussion](https://news.ycombinator.com/item?id=21306017) echoes these thoughts:
 
-> [In repsponse to "How is OpenAI misleading?"] 
+> [In response to "How is OpenAI misleading?"] 
 > Because this has become a pattern in OpenAI's MO.
 > Take a very impressive research achievement (large LSTM on byte-level language modeling/GPT-2). present it in a hyperbolic manner ("we've discovered a single neuron that captures sentiment", "the full GPT-2 is too dangerous to release"). wait for the press to eat it up, and if the technical press calls them out on misleading claims, even better, because it'll get even more traction then. Wait for defenders to show up stating that the original research achievement was impressive. Make no effort to clarify misleading claims.
 > The misleading word here is "solve", which can have two meanings: to derive a solution for a Rubik's cube, or to manipulate a Rubik's cube into a solved state. The casual reader absolutely assumes the former (which also appears as a challenging, intellectual task), whereas the technical achievement here is the latter. But of course, a press released titled "Solving Rubik's Cube with a Robot Hand" sounds much more impressive than "Manipulating Rubik's Cube with a Robot Hand".
 > I say this as a person who has benefited from their great research output and models: please stop playing this terrible PR game. You do your research work a disservice by muddying the waters like this. 
 
-Overall, this  being agreed upon as being good research but also being divisive due to how it was communicated strongly echoes what happened [earlier this year with OpenAI's GPT2](https://www.skynettoday.com/briefs/gpt2).
+Overall, this being agreed upon as being good research but also being divisive due to how it was communicated strongly echoes what happened [earlier this year with OpenAI's GPT2](https://www.skynettoday.com/briefs/gpt2).
 
 ## Our Perspective
 
